@@ -1,2 +1,2 @@
 # DotNetConsoleCrudMvc
-projeto didatico dotnet, app gerenciador de series no terminal de comando  
+Simples projeto dotnet de console implementado um crud com repositorio em memoria. 
